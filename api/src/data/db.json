@@ -8,79 +8,23 @@
     },
     {
         "id": 2,
-        "productName": "mouse",
-        "productDescription": "2",
+        "productName": "Monitor",
+        "productDescription": "ded",
         "stock": "2",
-        "price": "2"
+        "price": "2000"
     },
     {
         "id": 3,
-        "productName": "teclado",
+        "productName": "hola",
         "productDescription": "2",
-        "stock": "2",
-        "price": "2"
+        "stock": "22",
+        "price": "22"
     },
     {
         "id": 4,
-        "productName": "teclado",
+        "productName": "w3",
         "productDescription": "2",
         "stock": "2",
         "price": "2"
-    },
-    {
-        "id": 5,
-        "productName": "danielll",
-        "productDescription": "2",
-        "stock": "2",
-        "price": "2"
-    },
-    {
-        "id": 6,
-        "productName": "HOLALALALALLA",
-        "productDescription": "2",
-        "stock": "2",
-        "price": "2"
-    },
-    {
-        "id": 7,
-        "productName": "mksdmfksfkm",
-        "productDescription": "ddfmdskfm",
-        "stock": "3233",
-        "price": "222"
-    },
-    {
-        "id": 8,
-        "productName": "mksdmfksfkm",
-        "productDescription": "ddfmdskfm",
-        "stock": "3233",
-        "price": "222"
-    },
-    {
-        "id": 9,
-        "productName": "mksdmfksfkm",
-        "productDescription": "ddfmdskfm",
-        "stock": "3233",
-        "price": "222"
-    },
-    {
-        "id": 10,
-        "productName": "mksdmfksfkm",
-        "productDescription": "ddfmdskfm",
-        "stock": "3233",
-        "price": "222"
-    },
-    {
-        "id": 11,
-        "productName": "mksdmfksfkm",
-        "productDescription": "ddfmdskfm",
-        "stock": "3233",
-        "price": "222"
-    },
-    {
-        "id": 12,
-        "productName": "mksdmfksfkm",
-        "productDescription": "ddfmdskfm",
-        "stock": "3233",
-        "price": "222"
     }
 ]
