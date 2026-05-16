@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "productName": "Computador",
+        "productDescription": "Computador de daniel",
+        "stock": 5,
+        "price": 9000
+    },
+    {
+        "id": 2,
+        "productName": "mouse",
+        "productDescription": "2",
+        "stock": "2",
+        "price": "2"
+    },
+    {
+        "id": 3,
+        "productName": "teclado",
+        "productDescription": "2",
+        "stock": "2",
+        "price": "2"
+    },
+    {
+        "id": 4,
+        "productName": "teclado",
+        "productDescription": "2",
+        "stock": "2",
+        "price": "2"
+    },
+    {
+        "id": 5,
+        "productName": "danielll",
+        "productDescription": "2",
+        "stock": "2",
+        "price": "2"
+    },
+    {
+        "id": 6,
+        "productName": "HOLALALALALLA",
+        "productDescription": "2",
+        "stock": "2",
+        "price": "2"
+    },
+    {
+        "id": 7,
+        "productName": "mksdmfksfkm",
+        "productDescription": "ddfmdskfm",
+        "stock": "3233",
+        "price": "222"
+    },
+    {
+        "id": 8,
+        "productName": "mksdmfksfkm",
+        "productDescription": "ddfmdskfm",
+        "stock": "3233",
+        "price": "222"
+    },
+    {
+        "id": 9,
+        "productName": "mksdmfksfkm",
+        "productDescription": "ddfmdskfm",
+        "stock": "3233",
+        "price": "222"
+    },
+    {
+        "id": 10,
+        "productName": "mksdmfksfkm",
+        "productDescription": "ddfmdskfm",
+        "stock": "3233",
+        "price": "222"
+    },
+    {
+        "id": 11,
+        "productName": "mksdmfksfkm",
+        "productDescription": "ddfmdskfm",
+        "stock": "3233",
+        "price": "222"
+    },
+    {
+        "id": 12,
+        "productName": "mksdmfksfkm",
+        "productDescription": "ddfmdskfm",
+        "stock": "3233",
+        "price": "222"
+    }
+]

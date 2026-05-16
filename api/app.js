@@ -1,17 +1,10 @@
-import { request, response } from "express";
 import express from "express";
-import dbConnect from "./utils/dbConnect.js";
-import router from "./routes/rutas.routes.js";
+import router from "./src/routes/productos.routes.js";
+import cors from "cors"
 
 const app = express()
-dbConnect();
+const PORT=8080
 
-
-app.use(express.json())
-
-const server = "/api/"
-
-app.use(server, router)
 
 function routeNotFound(request, response) {
     response.status(404).json({
@@ -19,8 +12,13 @@ function routeNotFound(request, response) {
     })
 }
 
-app.use(routeNotFound)
+app.use(cors())
+app.use(express.json());
+app.use("/api", router);
+app.use(routeNotFound);
 
-app.listen(8080, () => {
-    console.log("Server listening to port 8080")
+
+
+app.listen(PORT, () => {
+    console.log(`Server listening http://localhost:${PORT}/`)
 })
