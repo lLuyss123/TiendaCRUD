@@ -15,16 +15,44 @@
     },
     {
         "id": 3,
-        "productName": "hola",
-        "productDescription": "2",
-        "stock": "22",
-        "price": "22"
+        "productName": "jo",
+        "productDescription": "",
+        "stock": "",
+        "price": ""
     },
     {
         "id": 4,
-        "productName": "w3",
-        "productDescription": "2",
-        "stock": "2",
+        "productName": "",
+        "productDescription": "",
+        "stock": "",
+        "price": ""
+    },
+    {
+        "id": 5,
+        "productName": "",
+        "productDescription": "",
+        "stock": "",
+        "price": ""
+    },
+    {
+        "id": 6,
+        "productName": "",
+        "productDescription": "",
+        "stock": "",
+        "price": ""
+    },
+    {
+        "id": 7,
+        "productName": "",
+        "productDescription": "",
+        "stock": "",
+        "price": ""
+    },
+    {
+        "id": 8,
+        "productName": "hola",
+        "productDescription": "",
+        "stock": "22",
         "price": "2"
     }
 ]
