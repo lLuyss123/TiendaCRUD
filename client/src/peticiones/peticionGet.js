@@ -12,10 +12,10 @@ export async function getAll() {
   tabla.innerHTML=``;
   for (const element of data) {
   tabla.innerHTML += `
-                      <tr class="hover:bg-slate-50/30 transition-colors group">
+                      <tr class="hover:bg-slate-50/30 transition-colors group" id="${element.id}">
                         <td class="px-8 py-6">
                           <div class="flex flex-col">
-                            <span class="font-bold text-slate-900">${element.productName}</span>
+                            <span class="font-bold text-slate-900" >${element.productName}</span>
                             <span class="text-xs text-slate-400 mt-1 line-clamp-1 max-w-[300px]">${element.productDescription}</span>
                           </div>
                         </td>

@@ -12,47 +12,6 @@
         "productDescription": "ded",
         "stock": "2",
         "price": "2000"
-    },
-    {
-        "id": 3,
-        "productName": "jo",
-        "productDescription": "",
-        "stock": "",
-        "price": ""
-    },
-    {
-        "id": 4,
-        "productName": "",
-        "productDescription": "",
-        "stock": "",
-        "price": ""
-    },
-    {
-        "id": 5,
-        "productName": "",
-        "productDescription": "",
-        "stock": "",
-        "price": ""
-    },
-    {
-        "id": 6,
-        "productName": "",
-        "productDescription": "",
-        "stock": "",
-        "price": ""
-    },
-    {
-        "id": 7,
-        "productName": "",
-        "productDescription": "",
-        "stock": "",
-        "price": ""
-    },
-    {
-        "id": 8,
-        "productName": "hola",
-        "productDescription": "",
-        "stock": "22",
-        "price": "2"
     }
+    
 ]
