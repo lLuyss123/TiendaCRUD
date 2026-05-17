@@ -1,17 +1,9 @@
 [
     {
         "id": 1,
-        "productName": "Computador",
-        "productDescription": "Computador de daniel",
-        "stock": 5,
-        "price": 9000
-    },
-    {
-        "id": 2,
         "productName": "Monitor",
-        "productDescription": "ded",
+        "productDescription": "",
         "stock": "2",
-        "price": "2000"
+        "price": "22"
     }
-    
 ]

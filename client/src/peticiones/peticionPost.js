@@ -10,21 +10,22 @@ formulario.addEventListener("submit", (e) => {
     price: `${inputPrecio.value}`,
   });
 
-  notificacion.innerHTML = `<div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3" role="alert">
-                  <p class="font-bold">Notificación</p>
-                  <p class="text-sm">Producto agregado correctamente.</p>
-                </div>`;
+  notificacion.innerHTML = `
+    <div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3" role="alert">
+      <p class="font-bold">Notificación</p>
+      <p class="text-sm">Producto agregado correctamente.</p>
+    </div>`;
 
   limpiarForm();
 });
+
 export async function postProduct(data2) {
   const respuesta = await fetch("http://localhost:8080/api/", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data2),
   });
-  console.log(respuesta);
-
+  
   getAll();
 }
 const inputNombre = document.getElementById("nombre-producto");
